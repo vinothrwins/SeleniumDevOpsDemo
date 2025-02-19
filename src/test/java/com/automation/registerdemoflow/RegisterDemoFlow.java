@@ -36,7 +36,7 @@ public class RegisterDemoFlow {
 	@Test(priority = 1)
 	public void launchApplication() {	  
 		
-		System.out.println("Code added to check the Poll SCM Feature");
+		System.out.println("Code updated to check the Poll SCM Feature");
 
 		// Step 1. Launch the Application
 
